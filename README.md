@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiast Backend Dev and Competitive Programmer</h3>
 
 
-![Header](./your-header-image-name.png)
+![Header](./profilecover.png)
 
 
 
