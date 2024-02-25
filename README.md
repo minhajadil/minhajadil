@@ -1,8 +1,12 @@
+![Header](./intercover.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Adil</h1>
 <h3 align="center">An Enthusiast Backend Dev and Competitive Programmer</h3>
 
 
-![Header](./intercover.png)
+
 
 
 
