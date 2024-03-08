@@ -17,11 +17,11 @@
 
 - 🌱 Currently learning **Django Rest Framework and Computer Networking**
 
-- 📫 How to contact **minhajuladil@gmail.com**
+- 📫 How to contact: **minhajuladil@gmail.com**
 
-- 📄 Know about experiences [Resume](https://drive.google.com/file/d/1Bsz6_4YnQpou3stOEUHJQ1uobVXxOlzO/view?usp=sharing)
+- 📄 Know about experiences: [Resume](https://drive.google.com/file/d/1Bsz6_4YnQpou3stOEUHJQ1uobVXxOlzO/view?usp=sharing)
 
-- ⚡ Fun fact **He sleeps most of the time while he's not coding.**
+- ⚡ Fun fact: **He sleeps most of the time while he's not coding.**
 
 <h3 align="left">Connect with Adil:</h3>
 <p align="left">
