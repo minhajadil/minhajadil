@@ -2,8 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Minhajul Abedin Adil</h1>
-<h3 align="center">An Enthusiast Backend Dev and Competitive Programmer</h3>
+<h1 align="center">Hi 👋, this is Minhajul Abedin Adil</h1>
+<h3 align="center">An Enthusiastic Backend Developer and Competitive Programmer</h3>
 
 
 
@@ -13,17 +13,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajadil&label=Profile%20views&color=0e75b6&style=flat" alt="minhajadil" /> </p>
 
-- 🔭 I’m currently working on [Boi-Ghor (A Home For Books)](https://github.com/minhajadil/Boi-Ghor)
+- 🔭 Currently working on [Boi-Ghor (A Home For Books)](https://github.com/minhajadil/Boi-Ghor)
 
-- 🌱 I’m currently learning **Django Rest Framework and Computer Networking**
+- 🌱 Currently learning **Django Rest Framework and Computer Networking**
 
-- 📫 How to reach me **minhajuladil@gmail.com**
+- 📫 How to contact **minhajuladil@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bsz6_4YnQpou3stOEUHJQ1uobVXxOlzO/view?usp=sharing)
+- 📄 Know about experiences [Resume](https://drive.google.com/file/d/1Bsz6_4YnQpou3stOEUHJQ1uobVXxOlzO/view?usp=sharing)
 
-- ⚡ Fun fact **I sleep most of the time while I'm not coding.**
+- ⚡ Fun fact **He sleeps most of the time while he's not coding.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Adil:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minhajul-abedin-adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajul-abedin-adil" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/minhajadil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="minhajadil" height="30" width="40" /></a>
