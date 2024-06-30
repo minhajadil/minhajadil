@@ -1,9 +1,9 @@
-![Header](./intercover.png)
+![Header](./Cover.png)
 
 
 
 <h1 align="center">Hi 👋, this is Minhajul Abedin Adil</h1>
-<h3 align="center">An Enthusiastic Backend Developer and Competitive Programmer</h3>
+<h3 align="center">Computer Science Instructor @Phitron and Competitive Programmer</h3>
 
 
 
