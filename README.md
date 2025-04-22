@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, this is Minhajul Abedin Adil</h1>
-<h3 align="center">Senior Computer Science Instructor @Phitron and Competitive Programmer</h3>
+<h3 align="center">Senior Computer Science Instructor @Phitron </h3>
 
 
 
