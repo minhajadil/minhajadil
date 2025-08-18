@@ -13,7 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajadil&label=Profile%20views&color=0e75b6&style=flat" alt="minhajadil" /> </p>
 
-- 🔭 Currently working on [Boi-Ghor (A Home For Books)](https://github.com/minhajadil/Boi-Ghor)
 
 - 🌱 Currently learning **Django Rest Framework and Computer Networking**
 
