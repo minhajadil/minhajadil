@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajadil&label=Profile%20views&color=0e75b6&style=flat" alt="minhajadil" /> </p>
 
 
-- 🌱 Currently learning **Django Rest Framework and Computer Networking**
+- 🌱 Currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to contact: **minhajuladil@gmail.com**
 
